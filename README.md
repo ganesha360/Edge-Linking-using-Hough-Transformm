@@ -25,9 +25,9 @@ Using the HoughLinesP(),detect line co-ordinates for every points in the images.
 
 ## Program:
 
-Developed by : A.Anbuselvam
+Developed by : GANESH R
 
-Register no : 212222240009
+Register no : 212222240029
 
 ### Read image and convert it to grayscale image
 ```
